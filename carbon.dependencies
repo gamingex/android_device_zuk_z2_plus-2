@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "CarbonROM/android_kernel_zuk_msm8996",
+    "target_path": "kernel/zuk/msm8996"
+  },
+  {
+   "repository": "CarbonROM/android_device_qcom_common",
+   "target_path": "device/qcom/common"
+  },
+  {
+   "remote": "gh",
+   "repository": "LineageOS/android_hardware_sony_timekeep",
+   "target_path": "hardware/sony/timekeep",
+   "revision": "cm-14.1"
+  },
+  { 
+    "remote": "gh",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  }
+]
